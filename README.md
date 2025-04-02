@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumar011&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumar011" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjp.pinterest.com%2Fpin%2F604960162470718254%2F&psig=AOvVaw2lVSYJWgFOxZIpQh683oEu&ust=1743663207989000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjt6OPhuIwDFQAAAAAdAAAAABAt)" alt="" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkumar011" alt="akashkumar011" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
